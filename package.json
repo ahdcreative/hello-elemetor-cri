@@ -1,0 +1,43 @@
+{
+  "name": "hello-theme-cri",
+  "version": "2.0.0",
+  "description": "Hello Elementor CRI is a child theme of Hello Elementor theme created by Elementor team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdcreative/hello-elementor-cri.git"
+  },
+  "author": "AHDCreative <info@ahd-creative.agency>",
+  "license": "GPL-3.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/ahdcreative/hello-elementor-cri/issues"
+  },
+  "homepage": "https://github.com/ahdcreative/hello-elementor-cri#readme",
+  "dependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^5.0.0",
+    "node-sass": "^9.0.0",
+    "sass": "^1.68.0",
+    "stylelint": "^15.10.3"
+  },
+  "devDependencies": {
+    "@percy/cli": "^1.27.2",
+    "@prettier/plugin-php": "^0.20.1",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3",
+    "prettier-eslint": "^15.0.1",
+    "stylelint-config-prettier-scss": "^1.0.0"
+  }
+}
