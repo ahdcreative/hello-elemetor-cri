@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@percy/cli": "^1.27.2",
-    "@prettier/plugin-php": "^0.20.1",
+    "@prettier/plugin-php": "^0.22.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "prettier": "^3.0.3",
