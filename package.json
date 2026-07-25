@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ahdcreative/hello-elementor-cri#readme",
   "dependencies": {
     "browser-sync": "^2.29.3",
-    "del": "^7.1.0",
+    "del": "^8.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-cssnano": "^2.1.3",
